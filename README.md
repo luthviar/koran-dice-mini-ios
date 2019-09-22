@@ -1,1 +1,0 @@
-# koran-dice-mini-ios
